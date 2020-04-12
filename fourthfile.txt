@@ -4,3 +4,6 @@ this is the fourth file created while lerning git amend
 i just forgot this to add to the staging area
 =======
 >>>>>>> b21efae6aa1710dd2090b2b94ef0f39aaa8d4862
+
+
+trying git ammend once again

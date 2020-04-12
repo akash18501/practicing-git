@@ -1,2 +1,7 @@
 first file added to see untracked file
 changed it first time
+
+
+
+
+trying git ammend with the fourth file
