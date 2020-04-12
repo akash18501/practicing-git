@@ -5,3 +5,6 @@ changed it first time
 
 
 trying git ammend with the fourth file
+
+
+	*to learn git reset head with fourth file 

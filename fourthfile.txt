@@ -7,3 +7,5 @@ i just forgot this to add to the staging area
 
 
 trying git ammend once again
+
+ *this is to learn git reset and that's ti 
