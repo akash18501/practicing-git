@@ -1,0 +1,3 @@
+this is the fourth file created while lerning git amend
+
+i just forgot this to add to the staging area
